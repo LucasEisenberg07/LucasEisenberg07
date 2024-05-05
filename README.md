@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! My name is Lucas Eisenberg. I am a second year student at University of British Colombia. I am hoping to go into Computer Science and Physics for my degree. 
 
 <!--
 **LucasEisenberg07/LucasEisenberg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
